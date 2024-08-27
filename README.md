@@ -4,3 +4,7 @@ Hey there, future SQL superstar! 🎉 You’ve just stumbled upon the ultimate r
 Dive in to discover a world where SELECT is not just a keyword but a way of life, and JOIN isn’t a party trick but your secret weapon. From mastering the basics to conquering advanced topics, we’ve got you covered with resources, hands-on practice, and a few epic challenges along the way. So grab your favorite coffee, settle in, and get ready to become the SQL wizard you’ve always dreamed of!
 
 Happy querying! 🚀
+
+
+
+![SQL MAP](https://github.com/user-attachments/assets/bb1890e2-2309-4426-9162-da9b6398eee2)
