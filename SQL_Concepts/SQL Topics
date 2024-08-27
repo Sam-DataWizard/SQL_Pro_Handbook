@@ -1,0 +1,29 @@
+Foundational SQL Syntax & Commands :
+- Understand basics like SELECT, WHERE, JOIN, and ORDER BY.
+
+Advanced Query Techniques:
+- Dive into subqueries, correlated subqueries, common table expressions & set operations like UNION, INTERSECT, EXCEPT.
+
+Database Design & Normalization:
+- Master the principles of designing a database, ensuring normalization to minimize redundancy and boost data integrity.
+
+Indexes & Performance Tuning:
+- Explore indexing strategies and optimize your queries for top performance.
+
+Stored Procedures & Triggers:
+- Delve into creating and using stored procedures and set up triggers for automated database actions.
+
+Window Functions:
+- Become a pro at using window functions for advanced tasks, such as running totals or rankings.
+
+Data Transformation & ETL:
+- Understand the role of SQL in Extract, Transform, Load (ETL) processes.
+
+Database Administration:
+- Get acquainted with backups, restores, user privileges, and general database care.
+
+NOSQL & New SQL Databases :
+- While they're not traditional SQL, get to know NoSQL databases. like MongoDB, and newer SQL ones like CockroachDB.
+
+Database Security:
+- Dive into SQL injections, user privileges, and other measures to ensure data safety.

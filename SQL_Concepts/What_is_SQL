@@ -1,0 +1,22 @@
+Definition: 
+SQL stands for Structured Query Language. It is a domain-specific language used for interacting with relational databases. SQL allows users to perform various operations on data, such as querying, inserting, updating, and deleting records.
+
+Key Functions:
+Querying Data: Retrieve specific information from databases using the SELECT statement.
+Inserting Data: Add new records to a database with the INSERT INTO statement.
+Updating Data: Modify existing records using the UPDATE statement.
+Deleting Data: Remove records from a database with the DELETE statement.
+Creating and Modifying Tables: Define and alter database structures with CREATE TABLE, ALTER TABLE, and DROP TABLE.
+
+Common SQL Statements:
+SELECT: Retrieves data from one or more tables. Example: SELECT * FROM employees WHERE department = 'Sales';
+INSERT INTO: Adds new records. Example: INSERT INTO employees (name, department) VALUES ('John Doe', 'Sales');
+UPDATE: Changes existing records. Example: UPDATE employees SET department = 'Marketing' WHERE name = 'John Doe';
+DELETE: Removes records. Example: DELETE FROM employees WHERE name = 'John Doe';
+
+Why SQL Matters:
+Data Management: SQL is essential for organizing and managing data in relational databases. It allows users to interact with large volumes of data efficiently.
+Standardized Language: SQL is a standardized language supported by many database systems, such as MySQL, PostgreSQL, Oracle, and SQL Server. This means that once you learn SQL, you can apply it across different platforms.
+Data Analysis: SQL is widely used for data analysis and reporting, making it a crucial skill for data analysts, data scientists, and business intelligence professionals.
+
+SQL and Databases: SQL operates on relational databases, where data is organized into tables with rows and columns. Relationships between tables are established through keys, enabling complex queries and data retrieval.
